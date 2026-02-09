@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#preview img,
+#results img {
+  max-width: 300px;
+  margin: 10px;
+  border: 1px solid #ccc;
+}
+
+.result-item {
+  display: inline-block;
+  text-align: center;
+}
